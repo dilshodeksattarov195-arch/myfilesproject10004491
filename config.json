@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceralidate",
+        "uuid": 19019385,
+        "checksum": "f716a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
